@@ -1,2 +1,2 @@
 # stat1
-gen express 
+A simple task as part of the "basics of statistics" course.
